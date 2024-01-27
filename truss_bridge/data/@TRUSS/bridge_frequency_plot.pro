@@ -67,3 +67,9 @@ modeshape =
 {
   type = ModeShape;
 };
+
+frameview =
+{
+  type = FrameView;
+  deform = 1.;
+};
