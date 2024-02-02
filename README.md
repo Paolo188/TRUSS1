@@ -5,16 +5,16 @@ This repository houses the artifacts and documentation related to our project, w
 
 # Repository Structure
 
-## Truss notebook:
+## TRUSS notebook:
 This Jupyter notebook contains the implementation of Bayesian Optimization. It covers the methodology, code implementation, and any relevant visualizations. Feel free to explore and use this notebook to understand our approach to Bayesian Optimization.
 
-## Project_Planning:
+## Project planning and group management:
 Look at the file to see our planning since the start of our project.
 
-## Final_Presentation:
-There is the powerpoint slides of the presentation in week 7 and the final presentation.
+## Presentation_final
+There is the powerpoint slides of the final presentation. In 'presentation 12-1-2024' the midterm presentation can be found.
 
 # Getting Started
 If you are new to the project, consider following these steps:
-Explore the <> to review the project planning documents.
-Check the <> to gain insights from the final presentation materials.
+Explore the 'Project planning and group management' to review the project planning documents.
+Check the 'Presentation_final' to gain insights from the final presentation materials.
